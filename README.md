@@ -6,3 +6,9 @@
     -Coin'lerin spawn olması <br>
     -Skor arttırılması <br>
  
+<b>Tamamlanacaklar</b> <br> 
+    -Enemy prefabları <br>
+    -Start/game over ekranı <br>
+    -Best score  <br>
+    -Sesler
+ 
