@@ -3,6 +3,6 @@ ENDLESS JOURNEY
 
 -Tamamlananlar
     -Araç hareketi <br>
-    -Coin'lerin spawn olması
-    -Skor arttırılması
+    -Coin'lerin spawn olması <br>
+    -Skor arttırılması <br>
  
