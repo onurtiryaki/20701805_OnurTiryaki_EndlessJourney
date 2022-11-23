@@ -2,7 +2,7 @@
 ENDLESS JOURNEY
 
 -Tamamlananlar
-    -Araç hareketi <br|
+    -Araç hareketi <br>
     -Coin'lerin spawn olması
     -Skor arttırılması
  
