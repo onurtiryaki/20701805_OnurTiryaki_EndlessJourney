@@ -10,5 +10,4 @@
     -Enemy prefabları <br>
     -Start/game over ekranı <br>
     -Best score  <br>
-    -Sesler
  
