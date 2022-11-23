@@ -1,7 +1,7 @@
 # BST-407 BİTİRME PROJESİ
-ENDLESS JOURNEY
+<h2> ENDLESS JOURNEY </h2>
 
--Tamamlananlar <br>
+<b>Tamamlananlar</b> <br> 
     -Araç hareketi <br>
     -Coin'lerin spawn olması <br>
     -Skor arttırılması <br>
