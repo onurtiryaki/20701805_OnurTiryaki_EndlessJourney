@@ -11,4 +11,8 @@
     -Start/game over ekranı <br>
     -Best score  <br>
     
+    
+    
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://www.hizliresim.com/kihqfzp))
+    
  
