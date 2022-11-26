@@ -13,7 +13,6 @@
     
  
  <p align="center">
-  <img src="https://www.hizliresim.com/kihqfzp" width="350" title="hover text">
-  <img src="https://www.hizliresim.com/kihqfzp" width="350" alt="accessibility text">
+  <img src="https://www.hizliresim.com/kihqfzp">
 </p>
  
