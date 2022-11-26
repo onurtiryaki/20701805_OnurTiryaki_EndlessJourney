@@ -13,6 +13,6 @@
     
     
     
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://www.hizliresim.com/kihqfzp))
+![My Remote Image](https://www.hizliresim.com/kihqfzp)
     
  
