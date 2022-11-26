@@ -12,7 +12,5 @@
     -Best score  <br>
     
  
- <p align="center">
-  <img src="https://www.hizliresim.com/kihqfzp">
-</p>
+<img src="https://www.hizliresim.com/kihqfzp" alt="Alt text" title="Optional title">
  
