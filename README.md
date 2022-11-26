@@ -12,7 +12,6 @@
     -Best score  <br>
     
     
-    
-![My Remote Image](https://www.hizliresim.com/kihqfzp)
+   
     
  
